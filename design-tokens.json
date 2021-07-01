@@ -69,7 +69,7 @@
   "primary-color": {
     "category": "fill",
     "exportKey": "color",
-    "value": "rgba(44, 206, 138, 1)",
+    "value": "rgba(244, 67, 54, 1)",
     "type": "color"
   },
   "light-color-over-primary": {
@@ -81,13 +81,13 @@
   "dark-color": {
     "category": "fill",
     "exportKey": "color",
-    "value": "rgba(36, 72, 52, 1)",
+    "value": "rgba(95, 85, 84, 1)",
     "type": "color"
   },
   "dark-color-hover": {
     "category": "fill",
     "exportKey": "color",
-    "value": "rgba(105, 94, 119, 1)",
+    "value": "rgba(105, 68, 68, 1)",
     "type": "color"
   },
   "light-color-over-dark": {
@@ -99,7 +99,7 @@
   "dark-color-over-primary": {
     "category": "fill",
     "exportKey": "color",
-    "value": "rgba(83, 41, 84, 1)",
+    "value": "rgba(2, 2, 2, 1)",
     "type": "color"
   },
   "h1-heading-hero": {
@@ -115,11 +115,11 @@
       "type": "string"
     },
     "fontFamily": {
-      "value": "IBM Plex Sans",
+      "value": "Lora",
       "type": "string"
     },
     "fontWeight": {
-      "value": 400,
+      "value": 700,
       "type": "number"
     },
     "fontStyle": {
@@ -131,7 +131,7 @@
       "type": "string"
     },
     "_fontStyleOld": {
-      "value": "Regular",
+      "value": "Bold",
       "type": "string"
     },
     "letterSpacing": {
@@ -172,7 +172,7 @@
       "type": "string"
     },
     "fontFamily": {
-      "value": "Russo One",
+      "value": "Ubuntu",
       "type": "string"
     },
     "fontWeight": {
